@@ -44,6 +44,9 @@ body * {
 /*links*/
 ul {
   list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 
 ul li a {
@@ -51,5 +54,19 @@ ul li a {
   justify-content: center;
   align-items: center;
 
-  padding: 16px 24 px;
+  padding: 16px 24px;
+
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  /*backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);*/
+
+  text-decoration: none;
+
+  transition: background 0.2s;
+}
+
+ul li a:hover {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1.5px solid white;
 }
