@@ -2,7 +2,9 @@
 
 This project is a simple, responsive HTML page inspired by Linktree. It serves as a personal hub for sharing your social media profiles and important links.
 
-## Features
+---
+
+## 🚀 Features
 
 - Responsive design for mobile and desktop
 - Light and dark mode toggle
@@ -10,14 +12,18 @@ This project is a simple, responsive HTML page inspired by Linktree. It serves a
 - Social media icons (GitHub, Instagram, WhatsApp, LinkedIn)
 - Easy to add or modify links
 
-## Getting Started
+---
+
+## ⚡ Getting Started
 
 1. Clone or download this repository.
 2. Open `index.html` in your browser to view the page.
 3. Customize your profile image, username, and links in `index.html`.
 4. To enable live reload and easier development, use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in VS Code.
 
-## File Structure
+---
+
+## 🏗️ File Structure
 
 - `index.html` – Main HTML file
 - `style.css` – Styles for the page, including dark/light mode
@@ -25,12 +31,17 @@ This project is a simple, responsive HTML page inspired by Linktree. It serves a
 - `assets/` – Images and icons used in the project
 - `.vscode/` – Recommended editor settings and extensions
 
-## Customization
+---
+
+## ⚙️ Customization
 
 - Change the profile image by replacing `assets/rosto.jpg`.
 - Edit your username and links in the `index.html` file.
 - Add or remove social media icons as needed.
 
-## License
+---
+
+## 📝 License
 
 This project is open source and available under the MIT License.
+
